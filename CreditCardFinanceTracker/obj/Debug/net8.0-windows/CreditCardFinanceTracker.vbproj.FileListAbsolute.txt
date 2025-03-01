@@ -1,0 +1,17 @@
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.Form1.resources
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.Resources.resources
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.vbproj.GenerateResource.cache
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.AssemblyInfoInputs.cache
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.AssemblyInfo.vb
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.vbproj.CoreCompileInputs.cache
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\CreditCardFinanceTracker.exe
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\CreditCardFinanceTracker.deps.json
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\CreditCardFinanceTracker.runtimeconfig.json
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\CreditCardFinanceTracker.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\CreditCardFinanceTracker.pdb
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\refint\CreditCardFinanceTracker.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.pdb
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\CreditCardFinanceTracker.genruntimeconfig.cache
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\ref\CreditCardFinanceTracker.dll
