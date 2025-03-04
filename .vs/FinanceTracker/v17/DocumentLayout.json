@@ -15,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|solutionrelative:creditcardfinancetracker\\forms\\alterartransacao.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\forms\\novatransacao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|solutionrelative:creditcardfinancetracker\\forms\\novatransacao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|solutionrelative:creditcardfinancetracker\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\forms\\novatransacao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|solutionrelative:creditcardfinancetracker\\forms\\novatransacao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\forms\\novatransacao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|solutionrelative:creditcardfinancetracker\\forms\\novatransacao.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\forms\\novatransacao.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\data\\financetrackercontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|solutionrelative:creditcardfinancetracker\\data\\financetrackercontext.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|solutionrelative:creditcardfinancetracker\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AEAA4B3-3604-450C-8143-6A7D92752989}|CreditCardFinanceTracker\\FinanceTracker.vbproj|c:\\users\\tavar\\source\\repos\\creditcardfinancetracker\\creditcardfinancetracker\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -82,21 +82,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NovaTransacao.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
-              "RelativeDocumentMoniker": "CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
-              "ToolTip": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
-              "RelativeToolTip": "CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-04T18:32:03.326Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -111,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FinanceTrackerContext.vb",
               "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Data\\FinanceTrackerContext.vb",
               "RelativeDocumentMoniker": "CreditCardFinanceTracker\\Data\\FinanceTrackerContext.vb",
@@ -119,12 +106,11 @@
               "RelativeToolTip": "CreditCardFinanceTracker\\Data\\FinanceTrackerContext.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-01T03:28:55.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T03:28:55.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "NovaTransacao.vb",
               "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\NovaTransacao.vb",
               "RelativeDocumentMoniker": "CreditCardFinanceTracker\\Forms\\NovaTransacao.vb",
@@ -132,8 +118,7 @@
               "RelativeToolTip": "CreditCardFinanceTracker\\Forms\\NovaTransacao.vb",
               "ViewState": "AgIAACcAAAAAAAAAAAAEwDcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-04T18:47:50.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T18:47:50.005Z"
             },
             {
               "$type": "Document",
@@ -168,9 +153,34 @@
               "RelativeDocumentMoniker": "CreditCardFinanceTracker\\Forms\\AlterarTransacao.vb",
               "ToolTip": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\AlterarTransacao.vb",
               "RelativeToolTip": "CreditCardFinanceTracker\\Forms\\AlterarTransacao.vb",
-              "ViewState": "AgIAABsAAAAAAAAAAAAEwCsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-04T19:41:39.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\Form1.vb",
+              "RelativeDocumentMoniker": "CreditCardFinanceTracker\\Forms\\Form1.vb",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\Form1.vb [Projeto]",
+              "RelativeToolTip": "CreditCardFinanceTracker\\Forms\\Form1.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T17:38:49.64Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NovaTransacao.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
+              "RelativeDocumentMoniker": "CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
+              "ToolTip": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
+              "RelativeToolTip": "CreditCardFinanceTracker\\Forms\\NovaTransacao.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T18:32:03.326Z",
               "EditorCaption": ""
             },
             {
@@ -183,7 +193,8 @@
               "RelativeToolTip": "CreditCardFinanceTracker\\Forms\\Form1.vb",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvyAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-04T19:44:01.579Z"
+              "WhenOpened": "2025-03-04T19:44:01.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -208,18 +219,6 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-01T03:28:23.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.vb [Projeto]",
-              "DocumentMoniker": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\Form1.vb",
-              "RelativeDocumentMoniker": "CreditCardFinanceTracker\\Forms\\Form1.vb",
-              "ToolTip": "C:\\Users\\tavar\\source\\repos\\CreditCardFinanceTracker\\CreditCardFinanceTracker\\Forms\\Form1.vb [Projeto]",
-              "RelativeToolTip": "CreditCardFinanceTracker\\Forms\\Form1.vb [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-04T17:38:49.64Z",
-              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
