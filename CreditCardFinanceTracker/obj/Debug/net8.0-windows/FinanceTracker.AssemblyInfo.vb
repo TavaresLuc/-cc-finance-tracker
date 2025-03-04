@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FinanceTracker"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+687e3efaf8802726ac80f21849d2a4ca3ef5087a"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a83ef31decfd02abd4e1f8696f62b1b577aef6ba"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FinanceTracker"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FinanceTracker"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
