@@ -4,6 +4,7 @@ Imports System.ComponentModel.DataAnnotations.Schema
 <Table("Transacoes")>
 Public Class Transacao
     <Key>
+    <DatabaseGenerated(DatabaseGeneratedOption.Identity)>
     Public Property Id_Transacao As Integer
 
     Public Property Numero_Cartao As String

@@ -30,6 +30,8 @@ Partial Class Form1
         dtpDataInicial = New DateTimePicker()
         dtpDataFinal = New DateTimePicker()
         dgvTransacoes = New DataGridView()
+        VerificarRelatorio = New LinkLabel()
+        ExportarExcel = New LinkLabel()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(BotaoNovo, ComponentModel.ISupportInitialize).BeginInit()
         CType(BtnFiltrarTransacoes, ComponentModel.ISupportInitialize).BeginInit()
@@ -38,7 +40,7 @@ Partial Class Form1
         ' 
         ' PictureBox1
         ' 
-        PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), Image)
+        PictureBox1.Image = My.Resources.Resources.newLogo
         PictureBox1.Location = New Point(363, 12)
         PictureBox1.Name = "PictureBox1"
         PictureBox1.Size = New Size(289, 82)
@@ -76,6 +78,7 @@ Partial Class Form1
         txtNumeroCartao.Location = New Point(330, 134)
         txtNumeroCartao.Multiline = True
         txtNumeroCartao.Name = "txtNumeroCartao"
+        txtNumeroCartao.PlaceholderText = "Número do Cartão"
         txtNumeroCartao.Size = New Size(294, 51)
         txtNumeroCartao.TabIndex = 3
         ' 
@@ -84,32 +87,53 @@ Partial Class Form1
         dtpDataInicial.Location = New Point(69, 145)
         dtpDataInicial.Name = "dtpDataInicial"
         dtpDataInicial.Size = New Size(104, 23)
-        dtpDataInicial.TabIndex = 4
+        dtpDataInicial.TabIndex = 1
         ' 
         ' dtpDataFinal
         ' 
         dtpDataFinal.CustomFormat = "dd/MM/yyyy"
         dtpDataFinal.Location = New Point(194, 145)
         dtpDataFinal.Name = "dtpDataFinal"
-        dtpDataFinal.Size = New Size(104, 45)
-        dtpDataFinal.TabIndex = 5
+        dtpDataFinal.Size = New Size(104, 23)
+        dtpDataFinal.TabIndex = 2
         ' 
         ' dgvTransacoes
         ' 
         dgvTransacoes.AllowUserToOrderColumns = True
+        dgvTransacoes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
         dgvTransacoes.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
         dgvTransacoes.Location = New Point(69, 194)
         dgvTransacoes.Name = "dgvTransacoes"
         dgvTransacoes.Size = New Size(905, 200)
         dgvTransacoes.TabIndex = 6
-        dgvTransacoes.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
-
+        ' 
+        ' VerificarRelatorio
+        ' 
+        VerificarRelatorio.AutoSize = True
+        VerificarRelatorio.Location = New Point(778, 406)
+        VerificarRelatorio.Name = "VerificarRelatorio"
+        VerificarRelatorio.Size = New Size(196, 15)
+        VerificarRelatorio.TabIndex = 7
+        VerificarRelatorio.TabStop = True
+        VerificarRelatorio.Text = "Verificar Total agrupado por Cartões"
+        ' 
+        ' ExportarExcel
+        ' 
+        ExportarExcel.AutoSize = True
+        ExportarExcel.Location = New Point(69, 406)
+        ExportarExcel.Name = "ExportarExcel"
+        ExportarExcel.Size = New Size(140, 15)
+        ExportarExcel.TabIndex = 8
+        ExportarExcel.TabStop = True
+        ExportarExcel.Text = "Exportar dados para Excel"
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7.0F, 15.0F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(1017, 450)
+        Controls.Add(ExportarExcel)
+        Controls.Add(VerificarRelatorio)
         Controls.Add(dgvTransacoes)
         Controls.Add(dtpDataFinal)
         Controls.Add(dtpDataInicial)
@@ -135,4 +159,6 @@ Partial Class Form1
     Friend WithEvents dtpDataInicial As DateTimePicker
     Friend WithEvents dtpDataFinal As DateTimePicker
     Friend WithEvents dgvTransacoes As DataGridView
+    Friend WithEvents VerificarRelatorio As LinkLabel
+    Friend WithEvents ExportarExcel As LinkLabel
 End Class

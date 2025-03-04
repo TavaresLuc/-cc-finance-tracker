@@ -120,3 +120,16 @@ C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\ob
 C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\FinanceTracker.pdb
 C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\FinanceTracker.genruntimeconfig.cache
 C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\ref\FinanceTracker.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\FinanceTracker.sourcelink.json
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\FinanceTracker.NovaTransacao.resources
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\FinanceTracker.AlterarTransacao.resources
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\obj\Debug\net8.0-windows\FinanceTracker.RelatorioCartoes.resources
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\tavar\source\repos\CreditCardFinanceTracker\CreditCardFinanceTracker\bin\Debug\net8.0-windows\System.IO.Packaging.dll
