@@ -21,6 +21,12 @@ Esse aplicação permite o **gerenciamento de transações de cartões de crédi
 
 ---
 
+## 📸 Screenshots
+
+### Main Screen
+![Form1](https://github.com/user-attachments/assets/73787f55-ccde-45b8-8997-dc2af8bef854)
+
+
 ## 🏗 **Configuração do Banco de Dados**
 Antes de rodar o projeto, **execute o seguinte script SQL** para criar e popular as tabelas:
 
