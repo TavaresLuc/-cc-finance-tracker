@@ -127,7 +127,15 @@ GO
 ```
 
 # ▶️ Como Executar o Projeto
-## 1️⃣ Instalar Dependências
+## 1️⃣ Clobar projeto e Instalar Dependências
+Clone o projeto:
+```
+git clone https://github.com/TavaresLuc/-cc-finance-tracker
+```
+Entre na pasta:
+```
+cd CreditCardFinanceTracker
+```
 Antes de rodar a aplicação, instale as bibliotecas necessárias via NuGet:
 ```
 dotnet restore
